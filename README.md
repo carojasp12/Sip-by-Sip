@@ -10,6 +10,7 @@ Does variety affect score?
 Are higher-rated wines more common in a specific place? 
 
 Hypothesis per question: 
+
 Q1:
 H0: Prices have no relation to ratings.
 H1: If the wine is higher priced then the rating will be higher.
