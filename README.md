@@ -1,3 +1,5 @@
+![image](https://github.com/carojasp12/Sip-by-Sip/assets/152667250/f61820a9-bb36-4215-88a1-62f66e1e48c8)
+
 # Sip-by-Sip
 Unraveling the Story Behind Wine Ratings and Prices
 Our investigation includes a detailed examination of trends in wine ratings and prices, shedding light on whether a correlation exists between quality (ratings) and cost. Through clear visualizations and statistical assessments, we seek to provide a comprehensive understanding of the factors that contribute to a wine's perceived value. This project goes beyond numbers, exploring the country, regions, and variety of wines.
